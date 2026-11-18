@@ -1,0 +1,19 @@
+{
+  "release": "2026.11.18-local",
+  "checkedAt": "2026-11-18T09:52:49.054Z",
+  "checks": {
+    "/login": 200,
+    "/attendance": 200,
+    "/reports": 200,
+    "/reset-password": 200,
+    "/api/health": 200,
+    "/openapi.json": 200,
+    "/api-docs/": 200,
+    "anonymousEmployees": 401,
+    "localCors": "passed",
+    "frontendApi": "http://localhost:5000/api",
+    "privateConfiguration": "matches original service settings; local URLs configured",
+    "latestFrontendSource": "matched",
+    "schemaInitialization": "disabled in local entry"
+  }
+}
