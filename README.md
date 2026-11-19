@@ -16,6 +16,6 @@
 	    Gmail password : #200309600586
 
 4.	Start the applications. Backend: “npm run dev” in backend , Frontend: “npm start” in frontend (second terminal).
-     Windows users may double-click **start.bat** .
+     Windows users may double-click **start.bat**. .
 
 
