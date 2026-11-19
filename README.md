@@ -1,4 +1,4 @@
-# Payroll and HR localhost release
+# Simple Payroll and PaySlip Generator localhost release
 
 
 ## Start on this Windows computer
